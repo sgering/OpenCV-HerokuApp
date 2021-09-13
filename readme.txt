@@ -1,1 +1,1 @@
-Procfile needs to be upper case P - check log file in heroku for errors
+This repo contains an exmaple of a computer vision application hosted on Git and connected to Heroku
